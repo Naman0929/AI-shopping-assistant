@@ -241,7 +241,3 @@ Hugging Face resources enabled model experimentation, while OpenWeatherMap was u
 
 * StableVITON (Future Integration)
 A cutting-edge virtual try-on model considered for enhancing user experience by visually simulating recommended outfits on dummy avatars.
-
-## 💡 Bonus Tip
-
-If you like this project, consider starring ⭐ the repo or contributing via issues or PRs!

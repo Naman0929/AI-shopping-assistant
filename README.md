@@ -205,13 +205,6 @@ While **WearPerfect** demonstrates the potential of AI-assisted wardrobe plannin
 - No support for:
   - **Cloud-based sync**
   - **Collaborative wardrobes** (e.g., family, stylist-client)
-
-## Contributors
-
-* Ajay Rajaram
-* Sri Harsha Vardhan Madhiri
-* Ashok Sai
-
 ---
 
 ## License
